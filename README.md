@@ -24,7 +24,7 @@
   
 - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height ="20"/> Git
   
-- <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" ancho="10" altura="10"/> Jest
+- <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" ancho="5" altura="5"/> Jest
   
 - <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> Node.js
   
@@ -32,7 +32,7 @@
   
 - <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height= "20"/> Adobe Illustrator
  
-- <img src="https: //raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="20" height="20"/> Adobe Photoshop
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="20" height="20"/> Adobe Photoshop
   
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nattabravo&show_icons=true&locale=en" alt="nattabravo" /> </p>
