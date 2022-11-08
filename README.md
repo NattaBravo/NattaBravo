@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Natalia Bravo</h1>
-<h3 align="center">Desarrollador frontend y artista apasionado de Colombia, interesado en crear herramientas web para tejer nuevas redes de apoyo y cooperación. que impactan a los sectores sociales más vulnerables. ¡Creo en el poder de la tecnología y el arte como herramientas para compartir lo mejor de nosotros mismos!</h3>
+<h3 align="center">Desarrolladora Frontend y artista colombiana, interesada en crear herramientas web para tejer nuevas redes de apoyo y cooperación que impacten a diversos sectores sociales ¡Creo en el poder de la tecnología y el arte como herramientas para compartir lo mejor de nosotros mismos!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nattabravo&label= Profile%20views&color=0e75b6&style=flat" alt="nattabravo" /> </p>
 
@@ -14,34 +14,28 @@
 
 <p align="left"> 
 
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="20" height="20"/> HTML
+  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20"/> CSS
+    
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"/> Javascript
 
+- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="20" height="20"/> Firebase
+  
+- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height ="20"/> Git
+  
+- <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" ancho="20" altura="20"/> Jest
+  
+- <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> Node.js
+  
 - <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width= "20" height="20"/> Figma
-
-- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> Firebase
   
-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height ="40"/> Git
-  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> HTML
-  
-- <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height= "40"/> Adobe Illustrator
-  
-- <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> Javascript
+- <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height= "20"/> Adobe Illustrator
  
-- <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" ancho="40" altura="40"/> Jest
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/iconos/photoshop/photoshop-line.svg" width="20" height="20"/> Adobe Photoshop
   
   
   
-  <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a > 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/ iconos/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www. photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt= "photoshop" ancho="40" altura="40"/> </a> </p>height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www. photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt= "photoshop" ancho="40" altura="40"/> </a> </p>target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" ancho ="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https: //raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  </p>target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" ancho ="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https ://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="10" height="10"/> </a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nattabravo&show_icons=true&locale=en&layout=compact" alt="nattabravo" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nattabravo&show_icons=true&locale=en" alt="nattabravo" /> </p>
