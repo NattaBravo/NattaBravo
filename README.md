@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Natalia Bravo</h1>
-<h3 align="center">Desarrolladora Frontend y artista colombiana, interesada en crear herramientas web para tejer nuevas redes de apoyo y cooperación que impacten a diversos sectores sociales ¡Creo en el poder de la tecnología y el arte como herramientas para compartir lo mejor de nosotros mismos!</h3>
+<h3 align="center">Desarrolladora Frontend y artista colombiana, interesada en crear herramientas web capaces de aportar valor a usuarios, clientes y comunidades a través del diseño de interfaces simples, de fácil uso que permitan democratizar el acceso a la información y la resolución de necesidades diversas ¡Creo en el poder de la tecnología y el arte como herramientas para compartir lo mejor de nosotros mismos!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nattabravo&label= Profile%20views&color=0e75b6&style=flat" alt="nattabravo" /> </p>
 
-- 🔭 Actualmente estoy trabajando en **HTML, CSS, Javascript, Firebase, Node.js, Git**
+- 🔭 Actualmente estoy trabajando en **React, Tailwind y Figma**
 
-- 🌱 Aprender sobre **Firebase y Node.js**
+- 🌱 Aprender sobre **UX UI**
 
 - 💬 Pregúntame sobre **Adobe Photoshop CC, Adobe Premiere CC, Adobe Illustrator**
 
